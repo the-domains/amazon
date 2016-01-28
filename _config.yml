@@ -1,0 +1,28 @@
+name: amazon
+favicon: null
+layout_spectrum: 0.42408339283429086
+typography_spectrum: 0.19942055875435472
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.06718046427704394
+  lightness: 0.43821373069658875
+  saturation: 0.28212619898840785
+  rhythmicContrast: 0.2963971372228116
+purpose: []
